@@ -1,0 +1,8 @@
+Various steps involved in predictive modeling:
+
+1) First analyze the data using univariate and multivariate analysis.
+2) Check for any missing and outlier information.
+3) Handle them.
+4) Variable transformation.
+5) Algorithm usage.
+6) PREdiction.
